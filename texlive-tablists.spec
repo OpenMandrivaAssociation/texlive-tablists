@@ -6,7 +6,7 @@
 # catalog-version 0.0e
 Name:		texlive-tablists
 Version:	0.0e
-Release:	9
+Release:	10
 Summary:	Tabulated lists of short items
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tablists
