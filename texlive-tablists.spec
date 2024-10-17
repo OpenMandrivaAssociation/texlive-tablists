@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Tabulated lists of short items
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tablists
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tablists
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tablists.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tablists.doc.r%{version}.tar.xz
